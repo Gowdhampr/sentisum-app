@@ -1,0 +1,6 @@
+@import "tailwindcss";
+
+* {
+  --tw-border-opacity: 1;
+  border-color: rgb(224 224 224 / var(--tw-border-opacity));
+}
