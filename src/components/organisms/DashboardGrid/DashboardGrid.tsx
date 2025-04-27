@@ -152,7 +152,7 @@ const DashboardGrid = () => {
       })}
       <GridItem>
         <Card
-          classNames={"h-[27rem] group/outer border-dashed"}
+          classNames={"h-[27rem] group/outer border-dashed cursor-pointer"}
           role="button"
           onClick={handleAddReport}
         >
