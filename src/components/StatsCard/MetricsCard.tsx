@@ -1,6 +1,5 @@
 "use client";
 import React from "react";
-import classnames from "classnames";
 import { Card } from "../atoms/Card";
 import { ArrowDown, ArrowUp } from "lucide-react";
 import clsx from "clsx";
